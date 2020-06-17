@@ -40,6 +40,9 @@ app.listen(3000, function () {
 #3 
 * añadir ruta show
 
+#4 EDIT AND UPDATE
+* crear las routas y los templates de edit y update
+
 >>>> Si en ejs haces <%- cosacosa %> el "-" te permite escribir codigo en la pagina. 
 
 ----------------------------------------------------------
