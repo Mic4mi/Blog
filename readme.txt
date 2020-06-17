@@ -43,6 +43,10 @@ app.listen(3000, function () {
 #4 EDIT AND UPDATE
 * crear las routas y los templates de edit y update
 
+#4 
+* Implementar el sanitizador 
+* Estilar el index
+
 >>>> Si en ejs haces <%- cosacosa %> el "-" te permite escribir codigo en la pagina. 
 
 ----------------------------------------------------------
