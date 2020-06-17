@@ -29,7 +29,22 @@ app.listen(3000, function () {
 });
 
 ---------------------------------------------------------
-
+#1
 * Crear el modelo
 * Añadir el index y el resto de los templates para las rutas
 * Añadir una navbar
+
+#2
+* añadir la ruta new y añadir el formulario para crear
+
+#3 
+* añadir ruta show
+
+>>>> Si en ejs haces <%- cosacosa %> el "-" te permite escribir codigo en la pagina. 
+
+----------------------------------------------------------
+/ means go back to the root folder, then traverse forward/downward.
+
+./ means begin in the folder we are currently in (current working directory) and traverse forward/downward in the tree.
+
+../ means go up one directory, then begin the traverse.
