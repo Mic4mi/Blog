@@ -107,5 +107,5 @@ app.delete("/blogs/:id", function (req, res) {
 });
 
 app.listen(3000, function () {
-    console.log("El servidor de YelpCamp empezó!");
+    console.log("The Server Has Started!");
 });
